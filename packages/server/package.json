@@ -27,7 +27,7 @@
 		"nanoid": "^3.1.30",
 		"nodemailer": "^6.7.1",
 		"pg": "^8.7.1",
-		"supertest": "^6.1.6",
+		"supertest": "^6.2.4",
 		"uuid": "^8.3.2",
 		"winston": "^3.3.3"
 	},
